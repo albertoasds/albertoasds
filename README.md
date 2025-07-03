@@ -175,3 +175,9 @@ Me chamo Alberto silva, tenho 46 anos e sou natural de fortaleza, ceara. ConcluÃ
   />
 
 </p>
+
+<p align="center">
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/0-don/0-don/output/github-contribution-grid-snake-dark.svg)
+
+</p>
