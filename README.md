@@ -176,6 +176,12 @@ Me chamo Alberto silva, tenho 46 anos e sou natural de fortaleza, ceara. Conclu√
 
 </p>
 
+<a href="https://github.com/wagnerlimanet?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/wagnerlimanet?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/wagnerlimanet/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=wagnerlimanet&style=for-the-badge&color=lightgrey"/>
+  </a>
+
 <p align="center">
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/0-don/0-don/output/github-contribution-grid-snake-dark.svg)
