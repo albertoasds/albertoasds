@@ -4,8 +4,8 @@
 </h2>
 
 <h3 align="center">
-  <a href="https://github.com/wagnerlimanet">
-	<img src="https://readme-typing-svg.herokuapp.com?lines=Me+chamo+Wagner+Lima;Sou+professor,+Designer,+Desenvolvedor+e+Gestor+de+Tráfego!&center=true&width=780&height=45">
+  <a href="https://github.com/albertoasds">
+	<img src="https://readme-typing-svg.herokuapp.com?lines=Me+chamo+Alberto+Silva;Sou+aluno,+Fullstack,+Desenvolvedor aprendiz+e+!&center=true&width=780&height=45">
   </a>
 </h3>
 
