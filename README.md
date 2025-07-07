@@ -2,7 +2,7 @@
 
 **`Curso de  FullStack em andamento`**# 👩🏻‍💻 Alberto Silva
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Alberto Silva Santos, tenho 46 anos e sou natural de Fortaleza Ceara. Concluí o ensino médio no UV6. Atualmente,<p> estou cursando Análise e Desenvolvimento de Sistemas na UNIGRANDE. Sou apaixonado por tecnologia<p> e compartilho meu conhecimento através do meu canal no YouTube "[Alberto silva](http://www.youtube.com/@albertosantos1846)",<p> onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/albertosilvaads/)".<p>
 
