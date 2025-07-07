@@ -47,6 +47,8 @@ Me chamo Alberto Silva Santos, tenho 46 anos e sou natural de Fortaleza Ceara. C
 
 <br>
 <br>
+
+ <!-- Linguagens e Tecnologias -->
 <img 
     align="left" 
     alt="HTML"
@@ -95,6 +97,7 @@ Me chamo Alberto Silva Santos, tenho 46 anos e sou natural de Fortaleza Ceara. C
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+<!-- Fim Linguagens e Tecnologias -->
 <br>
 <br>
 
