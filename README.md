@@ -40,7 +40,6 @@ Me chamo Alberto Silva Santos, tenho 46 anos e sou natural de Fortaleza Ceara. C
         />
     </a>
 </p>
-
 <br>
 <br>
 
@@ -48,7 +47,6 @@ Me chamo Alberto Silva Santos, tenho 46 anos e sou natural de Fortaleza Ceara. C
 
 <br>
 <br>
-
 <img 
     align="left" 
     alt="HTML"
@@ -73,7 +71,6 @@ Me chamo Alberto Silva Santos, tenho 46 anos e sou natural de Fortaleza Ceara. C
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Next.js" 
@@ -90,7 +87,6 @@ Me chamo Alberto Silva Santos, tenho 46 anos e sou natural de Fortaleza Ceara. C
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Git" 
@@ -99,9 +95,6 @@ Me chamo Alberto Silva Santos, tenho 46 anos e sou natural de Fortaleza Ceara. C
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
-<br/>
-<br/>
 <br>
 <br>
 
@@ -109,8 +102,6 @@ Me chamo Alberto Silva Santos, tenho 46 anos e sou natural de Fortaleza Ceara. C
 
 <br>
 <br>
-
-
 <p>
   <img 
     align="left" 
@@ -119,7 +110,6 @@ Me chamo Alberto Silva Santos, tenho 46 anos e sou natural de Fortaleza Ceara. C
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
 <img 
       align="left" 
       alt="GitHub Stats" 
