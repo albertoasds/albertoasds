@@ -12,7 +12,7 @@
 <hr />
 
 <samp>
-Com 20 anos de experiência em sala de aula, adquiri habilidades e conhecimentos necessários para tornar o aprendizado ainda mais fácil; ministrando aulas nas áreas de design, marketing digital, otimização de sites e desenvolvimento web.
+Me chamo Alberto Silva Santos, tenho 46 anos e sou natural de Fortaleza Ceara. Concluí o ensino médio no UV6. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIGRANDE. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Alberto silva](http://www.youtube.com/@albertosantos1846)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/albertosilvaads/)".
 </samp>
 
 <hr />
