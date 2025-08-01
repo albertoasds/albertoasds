@@ -25,6 +25,8 @@ Me chamo Alberto Silva Santos, tenho 46 anos e sou natural de Fortaleza Ceara. C
 
 <br>
 <br>
+##contatos
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
  
 <p align="left">
     <a href="http://www.youtube.com/@albertosantos1846?sub_confirmation=1">
